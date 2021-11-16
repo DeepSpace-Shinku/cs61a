@@ -1,0 +1,4 @@
+'repeated-correct', (0, 70)
+'merge-correct', (512, 70)
+'make_joint-correct', (1024, 70)
+'remainders_generator-correct', (1536, 70)

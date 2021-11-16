@@ -1,0 +1,2 @@
+Summer 2020: https://inst.eecs.berkeley.edu/~cs61a/su20/
+Fall 2020: https://inst.eecs.berkeley.edu/~cs61a/fa20/
